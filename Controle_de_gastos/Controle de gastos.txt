@@ -3,7 +3,7 @@ Nome            Categoria           valor         razão social      data de com
 Gato            Alimentação        R$100,00       Petshop           10/03/2026
 Cachorro        Alimentação        R$150,00       Petshop           10/03/2026
 cocota          Brinquedos         R$70,00        Petshop           17/04/2026
-peixe           Alimentação        R$50,00        Petshop           18/05/2026
+peixe           Alimentação        R$50,00        PetFood           18/05/2026
 rato            Saúde              R$105,00       Veterinário       20/06/2026
 Eduardo	        Alimentação	   R$25.00	  Ifood             05/07/2026
 Eduardo	        Roupas		   R$200.00	  Renner            03/07/2026
