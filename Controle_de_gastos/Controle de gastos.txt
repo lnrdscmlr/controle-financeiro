@@ -10,3 +10,9 @@ Eduardo	        Roupas		   R$200.00	  Renner            03/07/2026
 Eduardo	        Roupas		   R$130.00	  Renner	    30/06/2026
 Eduardo	        Alimentação        R$60.00	  McDonalds         06/07/2026
 Eduardo	        Saúde              R$75.00        Veterinário       25/05/2026
+------------------------------------------------------------------------------
+academia        saude             120                 -              01/07/2026
+luz             casa              220                                01/07/2026
+agua            casa              180                                01/07/2026
+seguro          casa              280                                01/07/2026
+creche          educação          800                                01/07/2026
