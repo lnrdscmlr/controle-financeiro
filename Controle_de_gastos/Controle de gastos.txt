@@ -7,7 +7,7 @@ peixe           Alimentação        R$50,00        PetFood           18/05/2026
 rato            Saúde              R$105,00       Veterinário       20/06/2026
 Eduardo	        Alimentação	       R$25.00	      Ifood             05/07/2026
 Eduardo	        Roupas		       R$200.00	      Renner            03/07/2026
-Eduardo	        Roupas		       R$130.00	      Renner	         30/06/2026
+Eduardo	        Roupas		       R$130.00	      Renner	        30/06/2026
 Eduardo	        Alimentação        R$60.00	      McDonalds         06/07/2026
 Eduardo	        Saúde              R$75.00        Veterinário       25/05/2026
 ------------------------------------------------------------------------------
