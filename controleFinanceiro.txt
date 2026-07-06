@@ -1,7 +1,0 @@
-nome	categoria	valor		data
-
-Eduardo	Alimentação	R$25.00		05/07/2026
-Eduardo	Aluguel		R$200.00	03/07/2026
-Eduardo	Roupas		R130.00		30/06/2026
-Eduardo	Lazer		R$30.00		06/07/2026
-Eduardo	
